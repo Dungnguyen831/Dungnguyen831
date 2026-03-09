@@ -1,16 +1,23 @@
-## Hi there 👋
+# Chào mừng đến với GitHub của Nguyen Dung! 👋
 
-<!--
-**Dungnguyen831/Dungnguyen831** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là một Software Developer đam mê xây dựng các ứng dụng toàn diện từ Backend đến Mobile. Mình thích kiến trúc code sạch (như MVC/DAO) và tối ưu hóa hiệu năng.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Công cụ
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Mobile Development:**
+<p>
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/GetX-%23FF5722.svg?style=for-the-badge&logo=firebase&logoColor=white" /> </p>
+
+**Backend Development:**
+<p>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 📈 Thống kê GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dungnguyen831&show_icons=true&theme=radium&hide_border=true" alt="Dung's GitHub Stats" />
+</p>
