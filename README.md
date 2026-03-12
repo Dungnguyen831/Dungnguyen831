@@ -37,7 +37,6 @@
 
 ## 📊 Thống kê GitHub
 
-*(Các thẻ thống kê này sẽ tự động cập nhật dựa trên hoạt động code của bạn)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dungnguyen831&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Dungnguyen831's GitHub stats" width="48%" />
